@@ -1,0 +1,3 @@
+# Security Policy
+
+FOR ALL SECURITY VULNERABILITIES, MESSAGE @bigvirusboi ON DISCORD
