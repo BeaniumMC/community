@@ -9,3 +9,7 @@ View the [official Beanium public roadmap](https://github.com/orgs/BeaniumMC/pro
 ## Issues
 
 Please check existing issues before posting.
+
+## Other
+
+Community health files are located [in the .github repository](https://github.com/BeaniumMC/.github).
