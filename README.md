@@ -1,4 +1,6 @@
-# Beanium GitHub community
+# Beanium Community Discussions
+
+Feel free to share your feedback here.
 
 The repository for most of Beanium's community information on GitHub.  
 
