@@ -1,6 +1,6 @@
-# Beanium Community Discussions
+# Beanium Community
 
-Feel free to share your feedback here.
+Feel free to share your feedback [in our Discord server](https://discord.beanium.net).
 
 The repository for most of Beanium's community information on GitHub.  
 
