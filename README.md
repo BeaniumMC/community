@@ -2,9 +2,9 @@
 
 Feel free to share your feedback [in our Discord server](https://discord.beanium.net).
 
-## Roadmap
+<!--## Roadmap
 
-View the [official Beanium public roadmap](https://github.com/orgs/BeaniumMC/projects/1).
+View the [official Beanium public roadmap](https://github.com/orgs/BeaniumMC/projects/1).-->
 
 ## Issues
 
